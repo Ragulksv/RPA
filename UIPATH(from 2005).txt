@@ -6,17 +6,17 @@ UIPATH(from 2005)
   >human intervention
 2.unattended
  >scheduled
-
+-------------------------------------------
 UiPath
 1.community
 2.interprice
 3.academic alliance
-
+-------------------------------------
 message
 1.message box
 2.log message(for spot error)mostly used
 3.sequence ->Input dialoge box
-
+-------------------------------------------------------
 Types of Variables
 1.String
 2.data table
@@ -25,8 +25,18 @@ Types of Variables
 5.numbers
 6.boolean
 7.queue item
-
+----------------------------------------
 Argument
 1.In
 2.Out
 3.In/Out
+-------------------------------------------
+Click
+>indicate
+>ui change(f4)
+>delay(in prop)
+----------------------------------------------
+Type into
+>indicate
+>select an text type place
+>text="abc"
