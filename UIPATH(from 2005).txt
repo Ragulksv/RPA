@@ -40,3 +40,9 @@ Type into
 >indicate
 >select an text type place
 >text="abc"
+----------------------------------------------
+Selector
+>windows selector
+>fuss selector
+>strict selector
+>dynamic selector
