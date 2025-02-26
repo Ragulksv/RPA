@@ -1,23 +1,28 @@
                             RPA
                     **********************
+Day-1
 
 UIPATH(from 2005)
+******************
 1.attended
   >human intervention
 2.unattended
  >scheduled
--------------------------------------------
+
 UiPath
+*********
 1.community
 2.interprice
 3.academic alliance
--------------------------------------
+
 message
+***********
 1.message box
 2.log message(for spot error)mostly used
 3.sequence ->Input dialoge box
--------------------------------------------------------
+
 Types of Variables
+*********************
 1.String
 2.data table
 3.array
@@ -26,23 +31,65 @@ Types of Variables
 6.boolean
 7.queue item
 ----------------------------------------
+Day-2
+
 Argument
+**********
 1.In
 2.Out
 3.In/Out
 -------------------------------------------
+Day-3
+
 Click
+*******
 >indicate
 >ui change(f4)
 >delay(in prop)
-----------------------------------------------
+
 Type into
+**********
 >indicate
 >select an text type place
 >text="abc"
 ----------------------------------------------
+Day-4
+
 Selector
+*********
 >windows selector
 >fuss selector
 >strict selector
 >dynamic selector
+
+controll flow
+****************
+1.do while
+2.while
+3.for each
+
+other control flow
+*******************
+1.delay
+2.break
+3.assign
+4.control
+5.parallel
+
+Error
+********
+1.Syntex erroe
+2.programming erroe
+3.User error
+
+Exception
+***********
+1.Business exception
+2.syntex exception
+
+exception handler
+******************
+1.try
+2.catch
+3.finally
+
